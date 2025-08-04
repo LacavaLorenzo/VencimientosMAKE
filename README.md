@@ -1,6 +1,6 @@
 # 🟡 Automatización de Vencimientos para Distribuidora El Dorado – App + Workflow No-Code 🚀
 
-![AppCarga](images/carga_app.png)
+![FlujoMake](Imagenes/foto3.jpeg)
 
 ## 📝 Resumen del Proyecto
 
@@ -25,7 +25,7 @@ La distribuidora solicitó reemplazar su procedimiento manual (control con hojas
 
 ## 🔄 Flujo de Trabajo Automatizado
 
-![DiagramaFlujo](images/flujo_automatizacion.png)
+![AppCarga](Imagenes/foto1.jpeg)
 
 1. 🧍‍♂️ **El personal de pasillo** accede desde su celular a una app online hecha en Google Sites.
 2. 📲 Carga los siguientes datos por producto:
@@ -37,6 +37,8 @@ La distribuidora solicitó reemplazar su procedimiento manual (control con hojas
 4. 📤 Todos los lunes, Make analiza la base de datos y envía correos automáticos a los encargados con:
    - 🟨 Productos con vencimiento entre 60 y 31 días.
    - 🟥 Productos con vencimiento en 30 días o menos.
+  
+![AppCarga](Imagenes/foto2.jpg)
 
 ---
 
